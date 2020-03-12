@@ -3,7 +3,8 @@
 
 # TEAM
 
-    <name> Nour Alliche <twitter>
+    Nour Alliche
+    nour.alliche@gmail.com
 
 # THANKS
 
