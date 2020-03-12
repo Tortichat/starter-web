@@ -5,6 +5,7 @@
 
     Nour Alliche
     nour.alliche@gmail.com
+    Devops Engineer
 
 # THANKS
 
@@ -14,3 +15,4 @@
 
     HTML5, CSS3
     jQuery, Modernizr
+    Docker, Java Programming
